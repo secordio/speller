@@ -1,0 +1,289 @@
+{
+  "cvc_short_a": {
+    "title": "CVC Short A",
+    "userLevel": "kid5",
+    "words": [
+      "cat", "bat", "hat", "bag",
+      "man", "pan", "jam", "nap",
+      "van", "ran", "sad", "tap"
+    ]
+  },
+  "cvc_short_e": {
+    "title": "CVC Short E",
+    "userLevel": "kid5",
+    "words": [
+      "bed", "red", "hen", "pen",
+      "ten", "net", "leg", "gem",
+      "web", "jet", "peg", "pet"
+    ]
+  },
+  "cvc_short_i": {
+    "title": "CVC Short I",
+    "userLevel": "kid5",
+    "words": [
+      "pig", "big", "dig", "fig",
+      "lid", "kid", "pin", "win",
+      "sit", "lip", "pit", "bit"
+    ]
+  },
+  "cvc_short_o": {
+    "title": "CVC Short O",
+    "userLevel": "kid5",
+    "words": [
+      "dog", "log", "fog", "hot",
+      "mom", "mop", "top", "pot",
+      "rod", "hop", "box", "pod"
+    ]
+  },
+  "cvc_short_u": {
+    "title": "CVC Short U",
+    "userLevel": "kid5",
+    "words": [
+      "sun", "bun", "gun", "fun",
+      "cup", "mug", "bug", "rug",
+      "bus", "nut", "run", "cub"
+    ]
+  },
+  "cvc_short_vowel": {
+    "title": "CVC Short‑Vowel Words (Beginner)",
+    "userLevel": "kid5",
+    "words": [
+      "cat", "man", "hat", "bag",
+      "bed", "pen", "hen", "net",
+      "pig", "sit", "lid", "bib",
+      "dog", "log", "top", "mom",
+      "sun", "bug", "cup", "fun"
+    ]
+  },
+  "long_a": {
+    "title": "Long A (a-e, ai, ay, eigh, ea, ey)",
+    "userLevel": "kid10",
+    "words": [
+      "cake", "bake", "plane", "grade", "brave",
+      "rain", "train", "brain", "paint", "mail",
+      "play", "stay", "tray", "delay", "display",
+      "eight", "weight",
+      "great", "break",
+      "they"
+    ]
+  },
+  "long_e": {
+    "title": "Long E (e‑e, ee, ea, y)",
+    "userLevel": "kid10",
+    "words": [
+      "these", "theme", "complete", "tree", "street", "cheese",
+      "beach", "dream", "speak", "clean", "happy", "candy", "copy", "baby"
+    ]
+  },
+  "long_i": {
+    "title": "Long I (i-e, igh, y, ie)",
+    "userLevel": "kid10",
+    "words": [
+      "like", "slide", "prize", "stripe", "invite",
+      "light", "bright", "fright", "night", "mighty",
+      "cry", "sky", "reply", "supply",
+      "pie", "tie",
+      "tiger", "spider"
+    ]
+  },
+  "long_o": {
+    "title": "Long O (o-e, oa, ow, oe, ough)",
+    "userLevel": "kid10",
+    "words": [
+      "rope", "globe", "froze", "stone", "joke",
+      "boat", "coast", "coach", "float", "groan",
+      "snow", "grow", "shadow", "window", "yellow",
+      "toe", "foe",
+      "though", "dough",
+      "hero"
+    ]
+  },
+  "long_u": {
+    "title": "Long U (u‑e, ue, ew, ui, oo)",
+    "userLevel": "kid10",
+    "words": [
+      "cube", "flute", "huge", "tune", "blue", "true",
+      "few", "grew", "chew", "flew", "fruit", "juice", "boot", "shoot"
+    ]
+  },
+  "r_controlled_ar": {
+    "title": "R‑Controlled AR",
+    "userLevel": "kid10",
+    "words": [
+      "car", "dark", "park", "shark", "start", "farm",
+      "chart", "spark", "garden", "scar", "harvest", "market"
+    ]
+  },
+  "r_controlled_or": {
+    "title": "R‑Controlled OR",
+    "userLevel": "kid10",
+    "words": [
+      "corn", "storm", "short", "porch", "morning", "thorn",
+      "horse", "fork", "sport", "story", "orbit", "snorkel"
+    ]
+  },
+  "r_controlled_er_ir_ur": {
+    "title": "R‑Controlled ER / IR / UR",
+    "userLevel": "kid10",
+    "words": [
+      "her", "fern", "germ", "bird", "shirt", "swirl",
+      "first", "turn", "burn", "curl", "nurse", "turtle"
+    ]
+  },
+  "diphthong_ou_ow": {
+    "title": "Diphthong OU / OW (as in house/cow)",
+    "userLevel": "kid10",
+    "words": [
+      "house", "shout", "cloud", "mouth", "round", "ground",
+      "cow", "clown", "crowd", "brown", "towel", "flower"
+    ]
+  },
+  "diphthong_oi_oy": {
+    "title": "Diphthong OI / OY (as in boil/toy)",
+    "userLevel": "kid10",
+    "words": [
+      "boil", "coin", "point", "voice", "choice", "oink",
+      "toy", "boy", "enjoy", "cowboy", "annoy", "oyster"
+    ]
+  },
+  "variant_vowel_au_aw": {
+    "title": "Variant Vowel AU / AW",
+    "userLevel": "kid10",
+    "words": [
+      "fault", "haunt", "launch", "author", "pause", "cause",
+      "saw", "claw", "yawn", "drawn", "lawn", "awesome"
+    ]
+  },
+  "variant_vowel_oo": {
+    "title": "Variant Vowel OO (moon/book)",
+    "userLevel": "kid10",
+    "words": [
+      "moon", "spoon", "broom", "groove", "noon", "sooner",
+      "book", "hook", "shook", "cookie", "rookie", "crooked"
+    ]
+  },
+  "variant_vowel_short_ea": {
+    "title": "EA = /ĕ/ (head/bread pattern)",
+    "userLevel": "kid10",
+    "words": [
+      "head", "bread", "sweat", "heavy", "ready", "meant",
+      "breakfast", "treasure", "feather", "measure", "health", "instead"
+    ]
+  },
+  "digraph_tch_ch": {
+    "title": "Final /ch/ – TCH vs CH",
+    "userLevel": "kid10",
+    "words": [
+      "patch", "match", "catch", "hatch", "witch", "stretch",
+      "peach", "beach", "coach", "pouch", "branch", "screech"
+    ]
+  },
+  "digraph_dge_ge": {
+    "title": "Final /j/ – DGE vs GE",
+    "userLevel": "kid10",
+    "words": [
+      "badge", "ridge", "bridge", "fudge", "dodge", "hedge",
+      "page", "cage", "stage", "huge", "change", "orange"
+    ]
+  },
+  "silent_consonants": {
+    "title": "Silent Letters (kn/gn, wr, mb)",
+    "userLevel": "kid10",
+    "words": [
+      "knife", "knock", "knight", "gnaw", "gnat", "write",
+      "wrist", "wrong", "wrap", "lamb", "comb", "thumb"
+    ]
+  },
+  "prefixes_common": {
+    "title": "Common Prefixes",
+    "userLevel": "kid10",
+    "words": [
+      "replay", "rebuild", "unlock", "unhappy", "dislike", "disapprove",
+      "misplace", "misbehave", "preview", "preheat", "improper", "inactive"
+    ]
+  },
+  "suffix_tion_sion_cian": {
+    "title": "‑tion / ‑sion / ‑cian",
+    "userLevel": "kid10",
+    "words": [
+      "action", "invention", "solution", "vacation", "mission", "explosion",
+      "decision", "tension", "musician", "electrician", "magician", "physician"
+    ]
+  },
+  "suffix_able_ible": {
+    "title": "‑able / ‑ible",
+    "userLevel": "kid10",
+    "words": [
+      "washable", "portable", "lovable", "breakable", "reversible", "visible",
+      "possible", "responsible", "terrible", "edible", "horrible", "incredible"
+    ]
+  },
+  "suffix_ous_ious": {
+    "title": "‑ous / ‑ious",
+    "userLevel": "kid10",
+    "words": [
+      "famous", "nervous", "spacious", "curious", "furious", "serious",
+      "gracious", "delicious", "poisonous", "glamorous", "joyous", "cautious"
+    ]
+  },
+  "suffix_al_ial": {
+    "title": "‑al / ‑ial",
+    "userLevel": "kid10",
+    "words": [
+      "musical", "natural", "personal", "national", "magical", "tropical",
+      "social", "special", "partial", "essential", "facial", "official"
+    ]
+  },
+  "greek_latin_roots": {
+    "title": "Greek & Latin Roots",
+    "userLevel": "kid10",
+    "words": [
+      "inspect", "spectator", "respect",
+      "transport", "import", "portable",
+      "autograph", "photograph", "graphite",
+      "erupt", "interrupt", "corrupt",
+      "describe", "transcript", "scribble",
+      "telephone", "telescope", "teleport",
+      "geology", "geography", "geometry",
+      "aquarium", "aquatic", "aqueduct",
+      "photosynthesis", "photocopy", "photon",
+      "chronology", "synchronize", "chronic"
+    ]
+  },
+  "homophones_common": {
+    "title": "Common Homophones",
+    "userLevel": "kid10",
+    "words": [
+      "their", "there", "they're",
+      "to", "too", "two",
+      "your", "you're",
+      "hear", "here",
+      "sea", "see"
+    ]
+  },
+  "misspelled_grade4": {
+    "title": "Frequently Misspelled (Grade 4)",
+    "userLevel": "kid10",
+    "words": [
+      "because", "friend", "answer", "people", "really", "caught",
+      "enough", "maybe", "pretty", "beginning", "family", "said"
+    ]
+  },
+  "kid10_custom_1": {
+    "title": "Kid 10 – Custom List 1",
+    "userLevel": "kid10",
+    "words": [
+      "very",
+      "sorry",
+      "mean",
+      "started",
+      "tease",
+      "playing",
+      "catch",
+      "why",
+      "being",
+      "won't",
+      "promise"
+    ]
+  }
+} 
